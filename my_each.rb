@@ -5,4 +5,3 @@ collection = [1,2,3,4]
     puts i
   # code here
   end
-end
